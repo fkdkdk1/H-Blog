@@ -1,8 +1,8 @@
 module.exports = {
-  title: `Bee starter`,
+  title: 'Han Blog',
   description: `Blog posted about ...`,
-  author: `Han Jae Hyeob`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
+  author: 'Han Jae Hyeob',
+  introduction: `Welcome to my blog`,
   siteUrl: `http://fkdkdk1.github.io`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
